@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.advancedlocomotionv4-13908680.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Work/UNREAL_PROJECTS/ALSReplicated/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "AdvancedLocomotionV4-13908680 [UE Editor]"
+				}
+			}
+		}
+	]
+}
